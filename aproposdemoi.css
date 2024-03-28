@@ -1,0 +1,37 @@
+body{
+    background-image:url(images/abstract-black-friday-wallpaper-luxury-background-template-color-art-template-business-dark-vector.jpeg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size:cover;
+    text-align: center;
+}
+
+*{
+    color:beige;
+    padding: 0;
+    margin: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+a{
+    text-decoration: none;
+    font-size: 30px;
+    display: block;
+    margin-top: 60px;
+}
+
+a:hover{
+    color:gold;
+}
+
+h1{
+    font-size: 40px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 15px;
+}
+
+p{
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 15px;
+}
