@@ -70,3 +70,39 @@ a:hover{
     text-decoration:underline;
     transition: 0.5s;
 }
+
+@media only screen and (max-width:390px){
+    body{
+        background-image:url(images/abstract-black-friday-wallpaper-luxury-background-template-color-art-template-business-dark-vector.jpeg);
+        background-size:auto;
+        background-repeat:repeat;
+        width: 900px;
+    }
+
+    div ul{
+        display: flex;
+        justify-content:space-evenly ;
+        width: 48em;
+        list-style: none;
+        align-items: center;
+        height: 100%;
+        text-transform: uppercase;  
+        height: 70px;
+        font-size: large;
+    }
+
+    .ol{
+        display:flex;
+        align-items: center;
+        height:89%;
+        margin: 5px;
+        text-align: center;
+    }
+
+    footer{
+        display: flex;
+        justify-content: center;
+        margin-top: 1100px;
+    }
+
+}
